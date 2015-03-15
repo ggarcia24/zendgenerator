@@ -1,0 +1,1 @@
+I'm a really lazy person, and I've notice that you have to create by hand too many classes when using Zend Framework, so I've created this dumb script that reverse engineers a database (or uses a different origin) to create the classes and forms to make really easy CRUD implementation of the objects defined.
